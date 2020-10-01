@@ -19,3 +19,5 @@ int main()
     cout << "a is "<< ::a<< endl;
     cout << "b is "<< b<< endl;
 }
+
+
