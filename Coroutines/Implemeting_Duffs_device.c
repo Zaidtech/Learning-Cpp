@@ -5,18 +5,16 @@
 int range(int a , int b){
     // use of the keyword static ??
     //  static varioables help in retaining the state btw the diff. function calls
-    
+        
     static long long int i;
-    static int state =0 ;
+    static int state =0;
     switch(state){
         case 0:
             state =1;
             for(i=a; i<b;i++){
-
                 return i;
-
                 case 1: ;
-
+            
             }
     }
     state = 0;
