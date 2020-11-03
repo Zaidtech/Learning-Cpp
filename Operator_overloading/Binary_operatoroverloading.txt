@@ -1,0 +1,11 @@
+Overloading a binary operartion can be done in two diif ways 
+  1. Overloading a binary operator using a non-member function
+  2. Overloading a binary operator using a member functio
+
+In  case 1. two parameters are passed into the definition of overloading 
+In case 2. only one member is passed as a parameter ..
+Reason is -> in the first case since overloading is done using a non membre function hence all the 
+parametrs nbeeded to be passed explicitly
+whereas in the operator overloading using the member function the left hand operator becomes the obj that 
+calls the member method with the right one as an argument
+     
