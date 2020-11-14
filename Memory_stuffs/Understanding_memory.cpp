@@ -1,4 +1,5 @@
 // Application memery 
+// https://medium.com/@nickolasteixeira/stack-vs-heap-whats-the-difference-and-why-should-i-care-5abc78da1a88#:~:text=The%20stack%20is%20a%20segment,%2Dout%20(LIFO)%20manner.&text=The%20main%20function%20and%20all,stored%20in%20an%20initial%20frame.
 /*                +-----> what decides the size of this container
      _____________|__
     |                |
