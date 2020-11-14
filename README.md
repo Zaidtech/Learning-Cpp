@@ -3,7 +3,7 @@
 ## A c++ learning repo.
 
 This repo contains some of my examples through the journey of C++.
-The exampples are followed from the Robert Lafore' book "OOP in C++", as well as my codes which i wrote to make the stuff clearer.
+The examples are followed from the Robert Lafore' book "OOP in C++", as well as my codes which i wrote to make the stuff clearer.
 
 ## Contributions
 
