@@ -1,0 +1,93 @@
+Generating array of 40 random numbers. 
+Array Generated is 
+420 666 643 399 677 385 369 133 376 629 149 221 798 767 136 530 925 15 741 202 15 509 835 988 784 509 740 641 820 360 662 593 378 305 992 56 43 713 541 419 
+After insertion using Linear Probing 
+Key --> 420     Position --> 44
+Key --> 666     Position --> 8
+Key --> 643     Position --> 32
+Key --> 399     Position --> 23
+Key --> 677     Position --> 19
+Key --> 385     Position --> 9
+Key --> 369     Position --> 40
+Key --> 133     Position --> 39
+Key --> 376     Position --> 0
+Key --> 629     Position --> 18
+Key --> 149     Position --> 10
+Key --> 221     Position --> 33
+Key --> 798     Position --> 46
+Key --> 767     Position --> 15
+Key --> 136     Position --> 42
+Key --> 530     Position --> 13
+Key --> 925     Position --> 34
+Key --> 15     Position --> 16
+Key --> 741     Position --> 36
+Key --> 202     Position --> 14
+Key --> 15     Position --> 17
+Key --> 509     Position --> 41
+Key --> 835     Position --> 37
+Key --> 988     Position --> 1
+Key --> 784     Position --> 35
+Key --> 509     Position --> 43
+Key --> 740     Position --> 38
+Key --> 641     Position --> 30
+Key --> 820     Position --> 21
+Key --> 360     Position --> 31
+Key --> 662     Position --> 4
+Key --> 593     Position --> 29
+Key --> 378     Position --> 2
+Key --> 305     Position --> 24
+Key --> 992     Position --> 5
+Key --> 56     Position --> 11
+Key --> 43     Position --> 45
+Key --> 713     Position --> 12
+Key --> 541     Position --> 25
+Key --> 419     Position --> 47
+
+ 
+After insertion using Qaudartic Probing 
+Key --> 420     Position --> 44
+Key --> 666     Position --> 8
+Key --> 643     Position --> 32
+Key --> 399     Position --> 23
+Key --> 677     Position --> 19
+Key --> 385     Position --> 9
+Key --> 369     Position --> 40
+Key --> 133     Position --> 39
+Key --> 376     Position --> 0
+Key --> 629     Position --> 18
+Key --> 149     Position --> 12
+Key --> 221     Position --> 33
+Key --> 798     Position --> 46
+Key --> 767     Position --> 15
+Key --> 136     Position --> 42
+Key --> 530     Position --> 13
+Key --> 925     Position --> 36
+Key --> 15     Position --> 16
+Key --> 741     Position --> 37
+Key --> 202     Position --> 14
+Key --> 15     Position --> 24
+Key --> 509     Position --> 43
+Key --> 835     Position --> 45
+Key --> 988     Position --> 1
+Key --> 784     Position --> 41
+Key --> 509     Position --> 48
+Key --> 740     Position --> 35
+Key --> 641     Position --> 30
+Key --> 820     Position --> 21
+Key --> 360     Position --> 31
+Key --> 662     Position --> 4
+Key --> 593     Position --> 29
+Key --> 378     Position --> 2
+Key --> 305     Position --> 27
+Key --> 992     Position --> 5
+Key --> 56     Position --> 10
+Key --> 43     Position --> 47
+Key --> 713     Position --> 17
+Key --> 541     Position --> 25
+Key --> 419     Position --> 52
+Enter a number to perform hashing operations 
+Performing search to find 768 ... 
+Searching number 768 using Linear probing ... 
+ -1 
+ Searching number 768 using Quadratic probing ... 
+ -1 

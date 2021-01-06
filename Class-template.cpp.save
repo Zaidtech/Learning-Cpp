@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+template <class T>
+class Stack{
+private:
+	vector <T> elements ; // this is a property
+public:
+	void push(T const&);//a function
+	void pop();//another function
+	T top() const;//returns the top element
+
+	bool empty() const{
+		return elements.empty();
+	}
+};
+
+template <class T>
+void Stack<T>::push(T const& elem){
+	elem.push_back(elem);
+}
+
+template <class T>
+
